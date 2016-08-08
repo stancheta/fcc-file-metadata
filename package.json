@@ -4,6 +4,7 @@
   "description": "Backend Project for FreeCodeCamp",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "mocha test/*.js"
   },
   "keywords": [
