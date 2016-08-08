@@ -7,7 +7,7 @@
    </head>
    <body>
       <h1>Submit a file to view its filesize</h1>
-      <form class="form-upload" action="/get-file-size" method="post">
+      <form class="form-upload" action="/get-file-size" method="post" enctype="multipart/form-data">
          <input id="file-upload" type="file" name="file"></input>
          <input type="submit"></input>
       </form>
