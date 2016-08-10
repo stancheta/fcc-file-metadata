@@ -30,4 +30,4 @@ This is a back end project on FreeCodeCamp where I reverse engineer the function
 + Heroku
 
 ### Live Demo:
-[https://stancheta-file-metadata](https://stancheta-file-metadata)
+[https://stancheta-file-metadata](https://stancheta-file-metadata.herokuapp.com)
